@@ -98,3 +98,5 @@ See `reports/final_report.pdf` for full methodology, error analysis, and limitat
 - Salary Band Predictor
 - LDA/NMF topic modeling
 - Rule-based mentor chat
+## Deployed Link of the project
+- https://smarthireproject-9ikknpdtutd8ao3xfndcgj.streamlit.app
