@@ -49,9 +49,9 @@ SmartHire_Project/
    ```
 
 2. Download the datasets from Kaggle and place them under `data/raw/`:
-   - Resume dataset → `data/raw/resumes/resumes.csv`
+   - Resume dataset → `data/raw/resumes/Resume_25.csv`
    - Naukri job postings → `data/raw/naukri/naukri.csv`
-   - LinkedIn job postings → `data/raw/linkedin/linkedin.csv`
+   - LinkedIn job postings → `data/raw/linkedin/Linkedin_dataset.csv`
 
 3. Run the notebooks in order to reproduce the pipeline (each writes intermediate/processed data and saves model artifacts):
    ```
